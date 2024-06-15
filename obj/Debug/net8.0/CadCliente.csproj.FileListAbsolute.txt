@@ -1,0 +1,5 @@
+/Users/user/Documents/Aulas/C#/Aulas/CadCliente/obj/Debug/net8.0/CadCliente.csproj.AssemblyReference.cache
+/Users/user/Documents/Aulas/C#/Aulas/CadCliente/obj/Debug/net8.0/CadCliente.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Aulas/C#/Aulas/CadCliente/obj/Debug/net8.0/CadCliente.AssemblyInfoInputs.cache
+/Users/user/Documents/Aulas/C#/Aulas/CadCliente/obj/Debug/net8.0/CadCliente.AssemblyInfo.cs
+/Users/user/Documents/Aulas/C#/Aulas/CadCliente/obj/Debug/net8.0/CadCliente.csproj.CoreCompileInputs.cache
